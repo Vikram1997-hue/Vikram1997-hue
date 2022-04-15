@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack + Java
 - 💞️ I am actively looking for the role of Flutter Developer
 - 📫 How to reach me : vikramaditya.2207@gmail.com
-- 
 - My LinkedIn: https://www.linkedin.com/in/vikramaditya-bhatnagar-a835a2162/
 - Developer + admin @ https://mylawsofhealthybaking.com
 
