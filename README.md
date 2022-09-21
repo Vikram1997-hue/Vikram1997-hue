@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikram1997-hue
 - 👀 I’m interested in Flutter & MERN Stack Development
-- 🌱 I’m currently learning MERN Stack + Java
-- 💞️ I am actively looking for the role of Flutter Developer
+- 🌱 I’m currently learning Backend Development w/ Node, Express, Mongoose/MongoDB, Sequelize/PostGreSQL/MySQL
+- 💞️ I am actively looking for the role of Flutter/MERN Stack Developer
 - 📫 How to reach me : vikramaditya.2207@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/vikramaditya-bhatnagar-a835a2162/
 - Developer + admin @ https://mylawsofhealthybaking.com
