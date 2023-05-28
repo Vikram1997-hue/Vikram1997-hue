@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikramaditya Bhatnagr
-- 👀 I’m interested MERN Stack Development, DevOps, Database Administration, and FLutter
+- 👀 I’m interested MERN Stack Development, DevOps, Database Administration, and Flutter
 - 🌱 I’m currently learning Backend Development w/ Node, Express, MongoDB, PostGreSQL/MySQL, and Redis
 - 💞️ I am actively looking for the role of Full Stack JavaScript Developer
 - 📫 How to reach me : vikramaditya.2207@gmail.com
